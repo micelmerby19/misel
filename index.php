@@ -7,7 +7,7 @@
 </head>
 <body>
     <?php
-
+    // tes
         //constanta
         define('gajipokok',5000000);
         define('bonus',500000);
